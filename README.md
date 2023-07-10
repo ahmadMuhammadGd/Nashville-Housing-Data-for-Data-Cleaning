@@ -1,6 +1,7 @@
 # Nashville-Housing-Data-for-Data-Cleaning
 Data's link: https://www.kaggle.com/datasets/tmthyjames/nashville-housing-data
-SQL script for handling nulls, manipulating data, removing duplicates, and deleting unused columns in the "Nashville Housing Data" table.
+
+A SQL script for handling nulls, manipulating data, removing duplicates, and deleting unused columns in the "Nashville Housing Data" table.
 This script aims to handle null values, manipulate data, remove duplicates, and delete unnecessary columns in the "Nashville Housing Data for Data Cleaning" table.
 
 Handling Nulls:
